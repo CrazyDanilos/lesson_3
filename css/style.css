@@ -1,0 +1,49 @@
+
+h1{
+	color: goldenrod;
+}
+
+p{
+	color: brown;
+}
+
+span{
+	color: green;
+}
+
+.firstspan{
+	color: indigo;
+}
+
+#h2{
+	color: gray;
+}
+
+p.text{
+	color: greenyellow;
+}
+
+.name.chapter{
+	color: hotpink;
+}
+div span{
+	color: navy;
+}
+
+.about_text,
+.block_text {
+	color: yellow;
+}
+
+
+[class*="-text"]{
+	color: steelblue;
+}
+
+ul li{
+	color: tomato;
+}
+
+ol > li{
+	color: maroon;
+}
